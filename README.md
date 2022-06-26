@@ -10,10 +10,10 @@ python main.py
 ```
 
 ## 3. Inference
-https://github.com/ultralytics/yolov5
+[1] https://github.com/ultralytics/yolov5
 
-https://github.com/wang-xinyu/tensorrtx
+[2] https://github.com/wang-xinyu/tensorrtx
 
-https://github.com/Monday-Leo/Yolov5_Tensorrt_Win10
+[3] https://github.com/Monday-Leo/Yolov5_Tensorrt_Win10
 
-video source: https://www.bilibili.com/video/BV1hS4y1d7bP?p=2
+[4] video source: https://www.bilibili.com/video/BV1hS4y1d7bP?p=2
