@@ -1,4 +1,4 @@
-# YOLOv5_TensorRT_Win
+# YOLOv5_TensorRT-Win
 A demo of YOLOv5 running on Windows with TensorRT to speed up detection
 
 ## 1. Install
